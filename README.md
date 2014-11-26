@@ -16,8 +16,8 @@ Write RSpec tests to specify the following _limited_ interface for a `Stack` cla
 - `new(suggested_capacity)` - Instantiate a new stack with an optional initial capacity
 - `push(element)` - Add a new element to the top of the receiver
 - `pop` - Remove the top element from the receiver
-- `top` - Answer the top element of the receiver
-- `empty?` - Answer whether or not the receiver is empty
+- `top` - Answers the top element of the receiver
+- `empty?` - Answers whether or not the receiver is empty
 
 Your design should enable stacks to grow if you try to add more elements than the current capacity.
 
