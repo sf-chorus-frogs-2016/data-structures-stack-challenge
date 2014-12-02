@@ -1,3 +1,3 @@
-def Stack
+class Stack
 
 end
