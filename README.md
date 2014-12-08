@@ -15,7 +15,7 @@ Most importantly for us, they're a classic example of a first-in-last-out (FIFO)
 Write and test a `Stack` class that conforms to the following interface:
 
 ### Interface
-- `Stack#new(suggested_capacity)`: Instantiate a new `Stack` with an optional initial capacity
+- `Stack#new()`: Instantiate a new `Stack`
 - `Stack#push(element)`: Add a new element to the top of the stack
 - `Stack#pop`: Remove and return the top element of the stack
 - `Stack#top`: Return (but do not remove) the top element of the stack
